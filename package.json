@@ -26,7 +26,7 @@
     "minimist": "1.2.5",
     "terser" : "5.10.0",
     "minimatch": "3.0.4",
-    "shelljs": "0.8.4"
+    "shelljs": "0.8.5"
   },
   "devDependencies": {
     "@babel/highlight": "7.0.0"
