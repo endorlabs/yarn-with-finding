@@ -21,7 +21,7 @@
     "packages/*"
   ],
   "dependencies": {
-    "semver": "6.0.0",
+    "semver": "7.5.2",
     "@tests/util": "",
     "minimist": "1.2.5",
     "terser" : "5.10.0",
